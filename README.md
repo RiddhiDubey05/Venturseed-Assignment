@@ -13,6 +13,10 @@ This project recreates the Figma home page design using Nuxt 3.
 ## Deliverables
 *   **Repository**: [Link to this repo]
 *   **Pixelay Evidence**: See `/pixelay` folder for desktop/mobile comparative screenshots and `notes.md`.
+<img width="1917" height="919" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/ab138b40-aff6-440f-86c6-007204329f29" />
+
+<img width="1920" height="906" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/cc381f69-c1d8-41dc-8792-936050bc29d9" />
+
 
 ## Setup Instructions
 1.  **Install dependencies**:
