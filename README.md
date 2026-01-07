@@ -27,11 +27,12 @@ This project recreates the Figma home page design using Nuxt 3.
     ```bash
     npm run build
     node .output/server/index.mjs
-    ```
 
-## Notes on Tradeoffs
+Notes on Tradeoffs:
+- Coordinates vs Layout: The Figma design used absolute pixel coordinates. I interpreted these as standard sections (Header, Hero, Pricing, Footer) for better responsiveness and standard web flow.
+- Visuals: Tailwind utilities and logic-based placeholders were used to match dimensions and styles where assets were abstract.
+- Mobile Interaction: A responsive navigation menu was implemented.
 
-*   Coordinates vs Layout: I interpreted these as standard sections (Header at top, followed by Hero, Pricing, Footer) rather than placing elements at absolute pixels, to ensure responsiveness and standard web flow.
 =======
 *   **Coordinates vs Layout**: The provided Figma dump contained absolute positioning coordinates. I interpreted these as standard sections (Header at top, followed by Hero, Pricing, Footer) rather than placing elements at absolute pixels, to ensure responsiveness and standard web flow.
 >>>>>>> Stashed changes
